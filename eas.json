@@ -1,0 +1,20 @@
+{
+  "eas": {
+    "build": {
+      "preview": {
+        "android": {
+          "buildType": "apk"
+        }
+      },
+      "preview2": {
+        "android": {
+          "buildType": "apk"
+        }
+      },
+      "preview3": {
+        "buildType": "apk"
+      },
+      "production": {}
+    }
+  }
+}
